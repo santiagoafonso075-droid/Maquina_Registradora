@@ -7,22 +7,20 @@ Aplicação de ponto de venda (POS) em Python/CustomTkinter com suporte a múlti
 </h1>
 
 <p align="center">
-  <a href="#pt">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/PT--PT-Português-green?style=for-the-badge">
   </a>
-  <a href="#en">
+  <a href="README_EN.md">
     <img src="https://img.shields.io/badge/EN-English-blue?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-<a id="pt"></a>
-
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido como exemplo para um README bilingue em GitHub.
-O objetivo é apresentar uma estrutura limpa, organizada e reutilizável para qualquer projeto.
+Escreve aqui a descrição do projeto.
+Explica o objetivo, o contexto e o que resolve.
 
 ---
 
