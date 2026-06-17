@@ -6,15 +6,6 @@ Aplicação de ponto de venda (POS) em Python/CustomTkinter com suporte a múlti
   &nbsp;Project Name
 </h1>
 
-<p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/PT--PT-Português-green?style=for-the-badge">
-  </a>
-  <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/EN-English-blue?style=for-the-badge">
-  </a>
-</p>
-
 ---
 
 ## Descrição do Projeto
