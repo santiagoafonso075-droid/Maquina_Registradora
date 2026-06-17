@@ -24,12 +24,8 @@ O projeto Máquina Registadora é uma aplicação desktop concebida para simular
 ## Como Usar
 1. Instalar a Aplicação (Ficheiro ZIP)  
 2. Extrair Ficheiro ZIP  
-3. Executar o EXE 
-
----
-
-## Para Usar
-Para uso pessoal da aplicação, ou para Compras/Vendas simples (que não envolvam faturação) consulte o documento "Documentação.txt" para saber como realizar as alterações necessárias.
+3. Executar o EXE
+4. Para uso pessoal da aplicação, ou para Compras/Vendas simples (que não envolvam faturação) consulte o documento "Documentação.txt" para saber como realizar as alterações necessárias.
 
 ---
 
