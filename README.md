@@ -31,3 +31,4 @@ O projeto Máquina Registadora é uma aplicação desktop concebida para simular
 ## Tecnologias
 <img src="https://skillicons.dev/icons?i=python,sublime,windows," />
 
+---
