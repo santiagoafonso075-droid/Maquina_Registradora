@@ -28,6 +28,11 @@ O projeto Máquina Registadora é uma aplicação desktop concebida para simular
 
 ---
 
+## Para Usar
+Para uso pessoal da aplicação, ou para Compras/Vendas simples (que não envolvam faturação) consulte o documento "Documentação.txt" para saber como realizar as alterações necessárias.
+
+---
+
 ## Tecnologias
 <img src="https://skillicons.dev/icons?i=python,sublime,windows," />
 
