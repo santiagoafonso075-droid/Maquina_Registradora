@@ -9,36 +9,25 @@ Aplicação de ponto de venda (POS) em Python/CustomTkinter com suporte a múlti
 ---
 
 ## Descrição do Projeto
-Escreve aqui a descrição do projeto. Explica o objetivo, o contexto e o que resolve.
+O projeto Máquina Registadora é uma aplicação desktop concebida para simular o funcionamento de um ponto de venda (POS). O objetivo principal é permitir a gestão rápida de vendas, o registo de produtos e o cálculo de valores num ambiente comercial sem faturação para casos de simples uso, oferecendo uma interface gráfica simples e direta para o utilizador final.
 
 ---
 
 ## Funcionalidades
-- Funcionalidade 1  
-- Funcionalidade 2  
-- Funcionalidade 3  
+- Interface Gráfica de Utilizador (GUI): Um painel visual para interação, facilitando a navegação sem necessidade de usar a linha de comandos.  
+- Registo de Vendas: Capacidade de selecionar ou introduzir produtos, processar quantidades e calcular o total a pagar em tempo real.  
+- Gestão de Identidade Visual: Inclusão de elementos visíveis na estrutura como logótipos personalizados para dar um aspeto mais profissional à aplicação.
+- Operação Autónoma: Sendo um ficheiro .exe, a aplicação foi desenhada para correr diretamente no sistema operativo Windows sem que o utilizador precise de ter um ambiente de desenvolvimento instalado.
 
 ---
 
 ## Como Usar
-1. Clonar o repositório  
-2. Instalar dependências  
-3. Executar o projeto  
-
-Link do projeto:  
-https://your-project-link-here.com
+1. Instalar a Aplicação (Ficheiro ZIP)  
+2. Extrair Ficheiro ZIP  
+3. Executar o EXE 
 
 ---
 
 ## Tecnologias
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+<img src="https://skillicons.dev/icons?i=python,sublime,windows," />
 
----
-
-## Instalação
-
-```bash
-git clone https://github.com/username/project.git
-cd project
-npm install
-npm start
