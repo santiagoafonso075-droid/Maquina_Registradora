@@ -1,8 +1,6 @@
 # Maquina Registradora  
 Aplicação de ponto de venda (POS) em Python/CustomTkinter com suporte a múltiplas caixas, histórico de vendas e envio de relatórios por email.
 
-[🇵🇹 Português](README.md) | [🇬🇧 English](README_EN.md)
-
 <h1 align="center">
   <img alt="Project Logo" src="./assets/logo.png" width="90" height="90" valign="middle">
   &nbsp;
