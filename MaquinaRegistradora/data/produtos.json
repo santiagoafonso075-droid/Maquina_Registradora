@@ -1,0 +1,278 @@
+{
+    "Comida": [
+        {
+            "id": 15,
+            "nome": "Biscoitos (12 Unid)",
+            "preco": 2.0,
+            "imagem": "bolos/biscoitos.png"
+        },
+        {
+            "id": 16,
+            "nome": "Queque",
+            "preco": 1.0,
+            "imagem": "bolos/queques.png"
+        },
+        {
+            "id": 18,
+            "nome": "Crepe Simples",
+            "preco": 3.0,
+            "imagem": "crepes/crepe_simples.png"
+        },
+        {
+            "id": 1,
+            "nome": "Waffle Simples",
+            "preco": 3.5,
+            "imagem": "waffles/waffles_simples.png"
+        },
+        {
+            "id": 19,
+            "nome": "Recheio (Crepes ou Waffles)",
+            "preco": 0.5,
+            "imagem": "crepes/acompanhamento_crepe.png"
+        },
+        {
+            "id": 45,
+            "nome": "bifana",
+            "preco": 3.5,
+            "imagem": "comidas/bifana.png"
+        },
+        {
+            "id": 46,
+            "nome": "cachorro quente",
+            "preco": 3.0,
+            "imagem": "comidas/cachorro_quente.png"
+        }
+    ],
+    "Cocktails": [
+        {
+            "id": 3,
+            "nome": "Gin Tónico",
+            "preco": 5.0,
+            "imagem": "cocktails/gin_tonico.png"
+        },
+        {
+            "id": 4,
+            "nome": "Pink Gin",
+            "preco": 5.5,
+            "imagem": "cocktails/pink_gin.png"
+        },
+        {
+            "id": 5,
+            "nome": "Laranja Gin",
+            "preco": 5.5,
+            "imagem": "cocktails/laranja_gin.png"
+        },
+        {
+            "id": 6,
+            "nome": "7up GIn",
+            "preco": 5.0,
+            "imagem": "cocktails/7up_gin.png"
+        },
+        {
+            "id": 7,
+            "nome": "Tropical Gin",
+            "preco": 5.5,
+            "imagem": "cocktails/tropical_gin.png"
+        },
+        {
+            "id": 8,
+            "nome": "Blue GIn",
+            "preco": 5.5,
+            "imagem": "cocktails/blue_gin.png"
+        },
+        {
+            "id": 9,
+            "nome": "Caipirinha",
+            "preco": 4.0,
+            "imagem": "cocktails/caipirinha.png"
+        },
+        {
+            "id": 10,
+            "nome": "Mojito",
+            "preco": 4.0,
+            "imagem": "cocktails/mojito.png"
+        }
+    ],
+    "Caipiroska": [
+        {
+            "id": 11,
+            "nome": "Pura",
+            "preco": 4.0,
+            "imagem": "caipiroska/caippiroska_pura.png"
+        },
+        {
+            "id": 12,
+            "nome": "Preta",
+            "preco": 4.0,
+            "imagem": "caipiroska/caipiroska_preta.png"
+        },
+        {
+            "id": 13,
+            "nome": "Azul",
+            "preco": 4.0,
+            "imagem": "caipiroska/caipiroska_azul.png"
+        },
+        {
+            "id": 14,
+            "nome": "Vermelha",
+            "preco": 4.0,
+            "imagem": "caipiroska/caipiroska_vermelha.png"
+        }
+    ],
+    "Shots": [
+        {
+            "id": 17,
+            "nome": "Shot",
+            "preco": 1.0,
+            "imagem": "shots/shots.png"
+        },
+        {
+            "id": 30,
+            "nome": "Ginja (Copo Normal)",
+            "preco": 1.0,
+            "imagem": "shots/ginja_copo_normal.png"
+        },
+        {
+            "id": 31,
+            "nome": "Ginja (Copo Chocolate) Servir 2x!!",
+            "preco": 1.5,
+            "imagem": "shots/ginja_copo_chocolate.png"
+        }
+    ],
+    "Bebidas s/Álcool": [
+        {
+            "id": 32,
+            "nome": "Ocean Blue",
+            "preco": 4.0,
+            "imagem": "bebidas s/álcool/oceanblue.png"
+        },
+        {
+            "id": 33,
+            "nome": "Ginja (Copo Chocolate) Servir 2x!!",
+            "preco": 1.5,
+            "imagem": "bebidas s/álcool/ginja_copo_chocolate.png"
+        },
+        {
+            "id": 34,
+            "nome": "Shot",
+            "preco": 1.0,
+            "imagem": "bebidas s/álcool/shots.png"
+        },
+        {
+            "id": 35,
+            "nome": "Copo de Sumo",
+            "preco": 1.0,
+            "imagem": "bebidas s/álcool/copo_sumo.png"
+        },
+        {
+            "id": 36,
+            "nome": "Caipirinha s/Álcool",
+            "preco": 3.5,
+            "imagem": "bebidas s/álcool/caipirinha_s_alcool.png"
+        },
+        {
+            "id": 37,
+            "nome": "Água",
+            "preco": 1.0,
+            "imagem": "bebidas s/álcool/agua.png"
+        }
+    ],
+    "Bebidas c/Álcool": [
+        {
+            "id": 39,
+            "nome": "Mini",
+            "preco": 1.0,
+            "imagem": "bebidas c/álcool/mini.png"
+        },
+        {
+            "id": 41,
+            "nome": "Copo Beirão (Por + Gelo)",
+            "preco": 4.0,
+            "imagem": "bebidas c/álcool/beirao.png"
+        },
+        {
+            "id": 42,
+            "nome": "Copo Carolans (Por + Gelo)",
+            "preco": 4.0,
+            "imagem": "bebidas c/álcool/carolans.png"
+        },
+        {
+            "id": 44,
+            "nome": "Copo Whisky (Por + Gelo)",
+            "preco": 4.0,
+            "imagem": "bebidas c/álcool/whisky.png"
+        }
+    ],
+    "Misturas": [
+        {
+            "id": 20,
+            "nome": "Vodka Preta",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/vodka_preta.png"
+        },
+        {
+            "id": 21,
+            "nome": "Vodka Morango",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/vodka_morango.png"
+        },
+        {
+            "id": 22,
+            "nome": "Vodka Pura",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/vodka.png"
+        },
+        {
+            "id": 23,
+            "nome": "Whisky",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/whisky.png"
+        },
+        {
+            "id": 24,
+            "nome": "Blue Coração",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/blue_coração.png"
+        },
+        {
+            "id": 25,
+            "nome": "Beirão",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/beirao.png"
+        },
+        {
+            "id": 26,
+            "nome": "Tequila",
+            "preco": 4.0,
+            "subtipo": "alcolica",
+            "imagem": "misturas/tequila.png"
+        },
+        {
+            "id": 27,
+            "nome": "Coca-Cola",
+            "preco": 4.0,
+            "subtipo": "nao_alcolica",
+            "imagem": "misturas/coca_cola.png"
+        },
+        {
+            "id": 28,
+            "nome": "7up",
+            "preco": 4.0,
+            "subtipo": "nao_alcolica",
+            "imagem": "misturas/7up.png"
+        },
+        {
+            "id": 29,
+            "nome": "Sumo",
+            "preco": 4.0,
+            "subtipo": "nao_alcolica",
+            "imagem": "misturas/sumo.png"
+        }
+    ]
+}

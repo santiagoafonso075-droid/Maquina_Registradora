@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "username": "Admin",
+        "password": "Admin@2024",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "username": "Grupo1",
+        "password": "101",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "username": "Grupo2",
+        "password": "102",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "username": "Grupo3",
+        "password": "103",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "username": "Grupo4",
+        "password": "104",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "username": "Grupo5",
+        "password": "105",
+        "role": "user"
+    },
+    {
+        "id": 7,
+        "username": "Grupo6",
+        "password": "106",
+        "role": "user"
+    },
+    {
+        "id": 8,
+        "username": "Grupo1VC",
+        "password": "101",
+        "role": "user"
+    },
+    {
+        "id": 9,
+        "username": "Grupo2VC",
+        "password": "102",
+        "role": "user"
+    }
+]
